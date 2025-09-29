@@ -40,14 +40,14 @@ Se os SDRs puderem centralizar as informações em um único input e a IA gerar 
 
 ---
 
-## 4. 📊 Resultados Esperados / Já Alcançados
-**Esperados (piloto inicial):**  
+## 4. 📊 Resultados Esperados / Resultados Obtidos
+**Resultados Esperados:**  
 - Redução de ~15 minutos por ficha → agora ~5 minutos para o SDR preparar os dados.  
 - Consultores chegam à reunião com informações mais completas e estratégias sugeridas.  
 - Maior confiança no processo de passagem de bastão.  
 - Diminuição de reuniões mal aproveitadas por falta de informações relevantes.  
 
-**Se já testado (exemplo de evidência):**  
+**Resultado dos Testes:**  
 - SDRs relataram ganho de tempo de **70%** na preparação.  
 - Consultores elogiaram a clareza da ficha, destacando principalmente o bloco de **Objeções & Respostas Preparadas**.  
 

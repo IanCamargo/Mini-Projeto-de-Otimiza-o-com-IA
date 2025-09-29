@@ -1,4 +1,4 @@
-# 📑 Entregáveis – Mini Projeto de Otimização com IA  
+# 📑 Entregáveis – Projeto de Otimização com IA  
 
 ## 1. 📌 Descrição do Processo
 **Contexto:**  
